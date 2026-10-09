@@ -1,0 +1,6 @@
+{
+  "name": "Stevari Money — Multi-Currency Financial Planning & Household Budgeting",
+  "description": "Stevari Money helps internationally mobile professionals and households plan ahead, track multi-currency accounts with exact ledger accounting, and collaborate seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
